@@ -1,2 +1,0 @@
-# GamesOnCro
-Games Library
